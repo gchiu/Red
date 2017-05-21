@@ -37,7 +37,7 @@ env:
          #
          - secure: "sJFdLdb5mv955Rp/AWiI6N+L6lbWAZn3MzsDc7nRRMjVtTuDb/mjqL2Bb51Pv0PWIdbPYUtub8DZQeRPBkAQQ+ZX6AeJkZdIDnVrgcSyMpxMLQVRiX2NSMXgwIk8SK2Nfq5Lr+1nIHoxXvMiz54EuTCx1rQpkaHYBUWgWPb9XeqUm8+sA2bC+m7p/nsaDlenBTllxVXpcdFyPHY6sLzcx04AFQLTZ/xtxiGX4VxyZaeSwf00F9UVT3kTd3a7L64YfvejI3xTUhxh0loKkcuXgU+4PgvCIwr/ddZCLnwkPgCMv08CRVFGM6GaDTRM0wFjDVZmZMDDqPmlJH3Qb1JJO3Y/KcaEZkI0ZoQ7nEEHowaV/N4jlq710ozOO0xJkXlWRvaMFillkfdt4jqiBgwJNHx4hKEUHHkN17kXRatNTAxt7K8xMKQingPwLO63TBeCG9CravIqCqbDk2Jg9ZaqZ7XnlqZK50gyUzbwcpndP40rbqbDvtIzMF/BADTN5++kJLJZg4o9lkivPVdsQlJPGKaE6KBQIhd+dd8w8VWK5qS4F9zw1k6YFYcfBhquDaiSQKORtYBBRyhsD6roA5lyhf+OnEjfSDwLU6TSjRkj/vRI+TTv+3rs60zj1CI0h+ap3kAxmWgj2g7F//wK2tezkukyhKQMGekEkiB4hYavO0g="
  
-         - AWS_S3_BUCKET_NAME: "metaeducation"
+         - AWS_S3_BUCKET_NAME: "red-lang"
 
 
 # We run the Red and Red/System test suites separately, to don't run against
